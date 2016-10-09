@@ -3,6 +3,8 @@ import './Hello.css';
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
+
+
 class List extends React.Component {
     constructor(props) {
         super(props);
@@ -46,6 +48,8 @@ ReactDOM.render(
 );
 
 
+
+
 // class User extends React.Component {
 //     constructor(props) {
 //         super(props);
@@ -86,6 +90,8 @@ ReactDOM.render(
 // );
 
 
+
+
 // class Hello extends React.Component {
 //     constructor(props) {
 //         super(props);
@@ -118,6 +124,9 @@ ReactDOM.render(
 //     <Hello />,
 //     document.getElementById('root')
 // );
+
+
+
 
 // class Input extends React.Component {
 //     constructor(props) {
@@ -177,6 +186,9 @@ ReactDOM.render(
 //     document.getElementById('root')
 // );
 
+
+
+
 // class Hello extends React.Component {
 //     handleClick() {
 //         console.log('efw');
@@ -199,6 +211,9 @@ ReactDOM.render(
 //     <Hello />,
 //     document.getElementById('root')
 // );
+
+
+
 
 // class Hello extends React.Component {
 //     render() {
