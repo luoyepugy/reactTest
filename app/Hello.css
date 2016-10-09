@@ -1,0 +1,21 @@
+
+.test {
+	width: 150px;
+}
+.test2 {
+	color: black;
+}
+.like,
+.hate {
+	width: 200px;
+	line-height: 35px;
+	cursor: pointer;
+}
+.like {
+	background: green;
+	color: white;
+}
+.hate {
+	background: yellow;
+	color: black;
+}

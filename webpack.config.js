@@ -41,6 +41,10 @@ module.exports = {
           "presets": ['react', 'es2015'],
           "plugins": ["react-hot-loader/babel"]
         }
+      },
+      {
+        test: /\.css$/, // Only .css files
+        loader: 'style!css' // Run both loaders
       }
     ]
   }
