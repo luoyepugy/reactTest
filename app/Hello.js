@@ -1,8 +1,7 @@
 
-import './Hello.css';
+import './stylesheets/Hello.css';
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-
 
 
 class List extends React.Component {

@@ -1,0 +1,12 @@
+
+/* ======== footer ========= */
+.footer {
+	width: 100vw;
+	text-align: center;
+	background: #fff;
+	color: #575757;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	border-top: 1px solid #575757;
+}
